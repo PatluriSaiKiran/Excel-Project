@@ -10,10 +10,11 @@ The goal is to clean, organize, and visualize data for better insights.
 - Data Visualization (interactive dashboards with slicers and filters)
 
 ## 📂 Files
-- `Bike_Sales.xlsx` → Final Excel project with cleaned data & dashboard
+[Excel Project Dataset.xlsx](https://github.com/user-attachments/files/22082767/Excel.Project.Dataset.xlsx)
 
 ## 📸 Dashboard Preview
-*(You can upload a screenshot of your Excel dashboard here for better impact)*
+<img width="928" height="617" alt="Dashboard" src="https://github.com/user-attachments/assets/1b98fcad-d477-49a3-9b99-f5a357106559" />
+
 
 ## 🚀 Insights
 - Most bike sales occurred among customers aged 31–40.
